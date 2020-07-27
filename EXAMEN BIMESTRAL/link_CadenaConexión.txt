@@ -1,0 +1,1 @@
+mongodb+srv://gabo2580:gabo2580@cluster0.l92ev.mongodb.net/ExamenBimestral
